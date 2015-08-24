@@ -7,3 +7,4 @@ i wrote this line in new branch
 
 one more line in the new branch
 
+trying rebase instead of merge in thirdbranch
